@@ -1,6 +1,6 @@
 # 
 <p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/55149010/127099805-4e36c8a0-143a-4b53-bc84-6d7fc2f14d6b.png" alt="Dependabot-X">
+  <img width="150" src="https://user-images.githubusercontent.com/55149010/127099805-4e36c8a0-143a-4b53-bc84-6d7fc2f14d6b.png" alt="Dependabot-X">
 <h1 align="center">Dependabot-X</h1>
 </p>
 
