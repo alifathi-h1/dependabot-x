@@ -81,7 +81,7 @@ print('Developed By @Alifathi-h1 \n\n '.center(90))
 
 parser = argparse.ArgumentParser(description='Dependabot-X is a tool written in Python3 that allows GitHub Organization/User to automate enabling Dependabot alerts feature for all repositories. \n\n')
 parser.add_argument('-o', '--org', help='Key in your organization name')
-parser.add_argument('-a', '--personal-account', help='Enable it for Your personal account', action=argparse.BooleanOptionalAction)
+parser.add_argument('-a', '--personal-account', help='Enable it for Your personal account', default=False ,action="store_true")
 
 args = parser.parse_args()
 
